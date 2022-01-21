@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+    font-family: 'Roboto', sans-serif; 
+    /* define a specific type of letter
+    and a default one (sans-serif)*/
+}
